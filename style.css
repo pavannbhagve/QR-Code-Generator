@@ -38,5 +38,12 @@ h2{
     border: none;
     background: #115cbe;
     color: #fff;
+    margin-bottom: 10px ;
 
+
+}
+#qr-img{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
 }
